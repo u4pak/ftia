@@ -1,5 +1,5 @@
 # ch3-map-reveal
-a collection of all the images that were used for the fortnite chapter 3 map reveal | https://fliptheisland.com/
+A collection of all the images that were used for the Fortnite Chapter 3 map reveal. | https://fliptheisland.com/
 
 # Direct Image Links
 No Reveal (Fully Pixelated) - https://fliptheisland.com/images/map/no-reveal.jpg
