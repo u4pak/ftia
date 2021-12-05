@@ -1,4 +1,4 @@
-# C3MRA (Chapter 3 Map Reveal Archive)
+# FTIA (Flip The Island Archive)
 A collection of all the images that were used for the Fortnite Chapter 3 map reveal. | https://fliptheisland.com/
 
 # Direct Image Links
