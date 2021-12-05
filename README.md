@@ -12,6 +12,8 @@ Part 2 - https://fliptheisland.com/kir/77e4d6b64e7226baac059f30331c3bcd.jpg
 
 Part 3 - https://fliptheisland.com/kir/277981c288f5cf668ee5804e1f6007e7.jpg
 
+Part 4 - https://fliptheisland.com/kir/fb78bdf1fcb2d007c42d8bfa3af01b52.jpg
+
 ### Miscellaneous Images
 New Jonesy Flipped - https://fliptheisland.com/images/social/jonesy-big.png
 
