@@ -19,7 +19,7 @@ Part 5 - https://fliptheisland.com/kir/98ebd0055a3cbbdd52e55cafcd0c1d4f.jpg
 ### 404 Page Images
 Flip The Island Logo - https://fliptheisland.com/images/hero/locales/en-US/hero.svg
 
-Fortnite Logo (Must copy raw into browser URL to view.) - https://github.com/KruzShady/ftia/blob/main/raw%20images/404/image.svg
+Fortnite Logo (Must copy blame text into browser URL to view.) - https://github.com/KruzShady/ftia/blob/main/raw%20images/404/image.svg
 
 ### Miscellaneous Images
 New Jonesy Flipped - https://fliptheisland.com/images/social/jonesy-big.png
