@@ -22,6 +22,8 @@ Flip The Island Logo - https://fliptheisland.com/images/hero/locales/en-US/hero.
 Fortnite Logo (Must copy blame text into browser URL to view.) - https://github.com/KruzShady/ftia/blob/main/raw%20images/404/image.svg
 
 ### Miscellaneous Images
+#FortniteFlipped Promo Art - https://fliptheisland.com/icons/og.jpg
+
 New Jonesy Flipped - https://fliptheisland.com/images/social/jonesy-big.png
 
 Jonesy Twitter Profile Picture- https://fliptheisland.com/images/social/jonesy.png
